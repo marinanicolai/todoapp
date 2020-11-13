@@ -1,0 +1,11 @@
+body {
+  height: 100%;
+  background-color: #111;
+}
+h1 {
+  font-size: 3rem;
+  font-weight: 100;
+  margin: 1rem 0 3rem;
+  text-align: center;
+  color: #fff;
+}

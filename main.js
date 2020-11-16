@@ -1,6 +1,6 @@
-const addButton = document.querySelector(".addButton");
-var input = document.querySelector(".input");
-const container = document.querySelector(".list_container");
+let addButton = document.querySelector(".addButton");
+let input = document.querySelector(".input");
+let container = document.querySelector(".list_container");
 
 class item {
   constructor(itemName) {
